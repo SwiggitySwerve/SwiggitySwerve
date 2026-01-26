@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Wes Rollings 👋</h1>
 <p align="center">
-  <b>Founder & Engineer @ <a href="https://astrabit.io">astrabit.io</a> | Backend · Data Science · AI</b>
+  <b>Co-Founder & Head of R&D @ <a href="https://astrabit.io">AstraBit</a> | Backend · Algorithmic Trading · AI</b>
 </p>
 
 <p align="center">
@@ -11,11 +11,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a backend-focused engineer with deep interest in data science and AI. I care most about **clean architecture, design patterns, and systems that scale** — the kind of code that's a pleasure to maintain six months later.
+I co-founded **[AstraBit](https://astrabit.io)**, a U.S.-based and FINRA-registered digital asset trading platform, where I lead R&D. We build algorithmic trading systems, portfolio analysis tools grounded in modern portfolio theory, and DeFi infrastructure — all within a regulated, compliance-first framework.
 
-I spend my time building tools at the intersection of AI and developer experience, and working on data-driven platforms that turn raw signals into actionable insight.
+Before and alongside that, I've spent my career obsessing over **clean architecture, design patterns, and systems that hold up under pressure**. I'm backend-focused by nature, drawn to the intersection of data science, AI, and financial engineering.
 
-### 🛠️ Technologies & Tools
+On the side, I build **AI-powered developer tools** — agents, review systems, and skill frameworks that plug directly into coding assistants like Claude Code and OpenCode.
+
+### 🛠️Technologies & Tools
 
 **Languages**
 - C# · .NET
@@ -28,6 +30,7 @@ I spend my time building tools at the intersection of AI and developer experienc
 - Microservices · Message-Driven Systems
 
 **Data & AI**
+- Algorithmic Trading · Quantitative Analysis
 - Machine Learning Pipelines · AutoML
 - PostgreSQL · Data Modeling
 - GPU-Accelerated Compute (ROCm)
@@ -39,12 +42,17 @@ I spend my time building tools at the intersection of AI and developer experienc
 
 ### 🔭 What I'm Working On
 
-- **AI-powered developer tooling** — building skills, agents, and review systems that integrate directly into AI coding assistants
-- **Strategy optimization platforms** — full-stack AutoML systems spanning API, UI, ML engine, and infrastructure
-- **Developer marketplaces** — curating and distributing AI development tools
+- **[AstraBit](https://astrabit.io)** — algorithmic crypto trading, portfolio analysis, and DeFi tools on a regulated, FINRA-registered platform
+- **AI-powered developer tooling** — skills, agents, and review systems that integrate directly into AI coding assistants
+- **Strategy optimization** — full-stack AutoML systems spanning API, UI, ML engine, and infrastructure
+
+### 🏠 Homelab
+
+When I'm not shipping production code, I'm tinkering with homelabs. I run a local AI inference box for LLM experimentation and a self-hosted media and services stack on Proxmox — because the best way to understand infrastructure is to run your own.
 
 ### 📫 Get in Touch
 
 - 🌐 Website: [astrabit.io](https://astrabit.io)
 - 📧 Personal: [swervelabs@proton.me](mailto:swervelabs@proton.me)
 - 💼 Business: [wrollings@astrabit.io](mailto:wrollings@astrabit.io)
+- 💬 LinkedIn: [Wesley Rollings](https://www.linkedin.com/in/wesley-rollings/)
