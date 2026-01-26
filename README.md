@@ -11,11 +11,13 @@
 
 ### 👨‍💻 About Me
 
-I co-founded **[AstraBit](https://astrabit.io)**, a U.S.-based and FINRA-registered digital asset trading platform, where I lead R&D. We build algorithmic trading systems, portfolio analysis tools grounded in modern portfolio theory, and DeFi infrastructure — all within a regulated, compliance-first framework.
+I like building things that work well and last — the kind of code you're not afraid to open six months later. Backend is where I'm most at home, but I'll go wherever the interesting problems are.
 
-Before and alongside that, I've spent my career obsessing over **clean architecture, design patterns, and systems that hold up under pressure**. I'm backend-focused by nature, drawn to the intersection of data science, AI, and financial engineering.
+I co-founded **[AstraBit](https://astrabit.io)**, where I head up R&D. We're a FINRA-registered digital asset platform building algorithmic trading systems, portfolio analysis tools, and DeFi infrastructure. It's been a wild ride turning "what if we built a better trading platform" into something real and regulated.
 
-On the side, I build **AI-powered developer tools** — agents, review systems, and skill frameworks that plug directly into coding assistants like Claude Code and OpenCode.
+I think well-written code has an aesthetic to it. I spend probably too much time on architecture and design patterns, but when it hits just right it's *chef's kiss*.
+
+Lately I've also been having a lot of fun building **AI-powered developer tools** — agents, review systems, and skill frameworks that plug into coding assistants like Claude Code and OpenCode.
 
 ### 🛠️Technologies & Tools
 
