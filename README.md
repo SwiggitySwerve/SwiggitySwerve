@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Wes Rollings 👋</h1>
+<h1 align="center">Hey, I'm Wes (Swiggity)👋</h1>
 <p align="center">
   <b>Co-Founder & Head of R&D @ <a href="https://astrabit.io">AstraBit</a> | Backend · Algorithmic Trading · AI</b>
 </p>
