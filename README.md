@@ -18,6 +18,9 @@ I co-founded **[AstraBit](https://astrabit.io)**, where I head up R&D. We're a F
 I think well-written code has an aesthetic to it. I spend probably too much time on architecture and design patterns, but when it hits just right it's *chef's kiss*.
 
 Lately I've also been having a lot of fun building **AI-powered developer tools** — agents, review systems, and skill frameworks that plug into coding assistants like Claude Code and OpenCode.
+https://github.com/SwiggitySwerve/ai-dev-toolkit-setup
+https://github.com/code-yeongyu/oh-my-opencode
+https://github.com/Fission-AI/OpenSpec
 
 ### 🛠️Technologies & Tools
 
