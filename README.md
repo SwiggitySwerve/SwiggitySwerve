@@ -60,7 +60,6 @@ When I'm not shipping production code, I'm tinkering with homelabs. I run a loca
 
 ### 📫 Get in Touch
 
-- 🌐 Website: [astrabit.io](https://astrabit.io)
-- 📧 Personal: [wrollings@astrabit.io](mailto:wrollings@astrabit.io)
-- 💼 Business: [swervelabs@proton.me](mailto:swervelabs@proton.me)
+- 📧 Personal: [swervelabs@proton.me](mailto:swervelabs@proton.me)
+- 💼 Business: [wrollings@astrabit.io](mailto:wrollings@astrabit.io)
 - 💬 LinkedIn: [Wesley Rollings](https://www.linkedin.com/in/wesley-rollings/)
